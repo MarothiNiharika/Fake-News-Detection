@@ -131,7 +131,7 @@ This project is suitable for:
 ## 👩‍💻 Developed By
 
 **Marothi Niharika**
-Final Year Student
+Pre-Final Year Student
 GitHub: https://github.com/MarothiNiharika
 
 ---
